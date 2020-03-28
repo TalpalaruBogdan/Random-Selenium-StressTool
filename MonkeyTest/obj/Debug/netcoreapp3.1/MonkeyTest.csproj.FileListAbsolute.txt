@@ -1,0 +1,16 @@
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\obj\Debug\netcoreapp3.1\MonkeyTest.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\obj\Debug\netcoreapp3.1\MonkeyTest.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\obj\Debug\netcoreapp3.1\MonkeyTest.AssemblyInfo.cs
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\MonkeyTest.exe
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\MonkeyTest.deps.json
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\MonkeyTest.runtimeconfig.json
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\MonkeyTest.runtimeconfig.dev.json
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\MonkeyTest.dll
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\MonkeyTest.pdb
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\WebMonkey.dll
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\bin\Debug\netcoreapp3.1\WebMonkey.pdb
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\obj\Debug\netcoreapp3.1\MonkeyTest.csproj.CopyComplete
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\obj\Debug\netcoreapp3.1\MonkeyTest.dll
+C:\Users\bogda\source\repos\WebMonkey\MonkeyTest\obj\Debug\netcoreapp3.1\MonkeyTest.pdb

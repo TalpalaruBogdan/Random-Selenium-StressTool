@@ -1,0 +1,8 @@
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\bin\Debug\netstandard2.0\WebMonkey.deps.json
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\bin\Debug\netstandard2.0\WebMonkey.dll
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\obj\Debug\netstandard2.0\WebMonkey.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\obj\Debug\netstandard2.0\WebMonkey.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\obj\Debug\netstandard2.0\WebMonkey.AssemblyInfo.cs
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\bin\Debug\netstandard2.0\WebMonkey.pdb
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\obj\Debug\netstandard2.0\WebMonkey.dll
+C:\Users\bogda\source\repos\WebMonkey\WebMonkey\obj\Debug\netstandard2.0\WebMonkey.pdb
